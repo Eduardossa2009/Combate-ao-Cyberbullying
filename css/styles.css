@@ -145,7 +145,7 @@ header {
     width: 90%;
 }
 
-.menu-container li {
+.menu-container a {
     list-style-type: none;
     margin-top: 20px;
 }
