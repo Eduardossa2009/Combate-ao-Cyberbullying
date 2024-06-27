@@ -97,7 +97,7 @@ p {
 }
 
 footer {
-    width: 50%;
+    width: 50px;
     display: flex;
     flex-direction: column;
     background-color: #004e97;
