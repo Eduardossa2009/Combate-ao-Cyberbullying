@@ -31,7 +31,7 @@ header #Logo {
 }
 
 h1 {
-    color: black;
+    color: yellow;
     font-family: 'Calibri', sans-serif;
     width: 400px;
     display: inline-block;
@@ -45,7 +45,7 @@ h1 {
 }
 
 h2 {
-    color: black;
+    color: yellow;
     font-family: 'Calibri', sans-serif;
     font-size: 25px;
 }
@@ -79,7 +79,7 @@ h3 {
 }
 
 p {
-    color: #000000;
+    color: yellow;
     font-family: 'Calibri', sans-serif;
     font-size: 20px;
 }
