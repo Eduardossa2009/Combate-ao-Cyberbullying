@@ -3,7 +3,7 @@ body {
 }
 
 p {
-    color: #004e97;
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
 }
@@ -31,7 +31,7 @@ header #Logo {
 }
 
 h1 {
-    color: #004e97;
+    color: black;
     font-family: 'Calibri', sans-serif;
     width: 400px;
     display: inline-block;
@@ -45,7 +45,7 @@ h1 {
 }
 
 h2 {
-    color: #004e97;
+    color: black;
     font-family: 'Calibri', sans-serif;
     font-size: 25px;
 }
